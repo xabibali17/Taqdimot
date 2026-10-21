@@ -1,0 +1,6 @@
+{
+  "name": "@TAQDIMIY_BOT - Taqdimot & Referat",
+  "description": "@TAQDIMIY_BOT: Tezkor, sifatli taqdimotlar (PPTX/PDF), referat, kurs ishi va barcha akademik ishlarni yaratuvchi professional AI yordamchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
